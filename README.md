@@ -7,7 +7,7 @@ Some highlights:
   
 ## To-Do (2024)
 - I want to become more consistent when working on projects. One of my goals this year is to *not* cram all my projects at once... let's hope that my Github contribution graph reflects that...
-- Learn with/from my friends. I geniunely know so many amazing coders and I'm consatntly inspired by their work ethic and the cool projects they have!
+- Learn with/from my friends. I geniunely know so many amazing coders and I'm constantly inspired by their work ethic and the cool projects they have!
 
 Goals: 
 - Finish my Big Five project. I want to continue doing research and adding my findings onto the 'Beyond the Dataset' page.

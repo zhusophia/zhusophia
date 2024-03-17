@@ -10,8 +10,7 @@ Some highlights:
 - Learn with/from my friends. I geniunely know so many amazing coders and I'm constantly inspired by their work ethic and the cool projects they have!
 
 Goals: 
-- Finish my Big Five project. I want to continue doing research and adding my findings onto the 'Beyond the Dataset' page.
-- I want to do analyze something using SQL, likely some sort of business data? TBD. 
+- Learn and complete a project with SQL, likely some sort of business data? -> Started :D
   
 ## Other
 Still curious? Learn more on my website: https://zhusophia.github.io 

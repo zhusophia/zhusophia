@@ -6,7 +6,7 @@ Some highlights:
 - I'm really proud of the first section of [my website](https://zhusophia.github.io), where the user has to interact with page before being 'allowed' to see the rest of the content. Encouraging engagement makes it fun :)
   
 ## To-Do (2024)
-- I want to become more consistent when working on projects. One of my goals this year is to *not* cram all my projects at once... let's hope that my Github contribution graph reflects that...
+- I want to become more consistent when working on projects, especially when school picks up and my side projects are replaced with practice problems...
 - Learn with/from my friends. I geniunely know so many amazing coders and I'm constantly inspired by their work ethic and the cool projects they have!
 
 Goals: 
